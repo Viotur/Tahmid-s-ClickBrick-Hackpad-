@@ -1,7 +1,7 @@
 # Tahmid-s-ClickBrick-Hackpad-
 Hi! I'm Tahmid, and this is my Hackpad submission for the Blueprint program.
 
-For this project, I designed a custom macropad using the Seeed XIAO RP2040 DIP as the microcontroller. The macropad features eight Cherry MX switches with keycaps and an EC11 Rotary encoder switch.
+For this project, I designed a custom macropad using the Seeed XIAO RP2040 DIP as the microcontroller. The macropad features eight Cherry MX switches with keycaps and an EC11 Rotary Encoder switch.
 
 Below is an overview image showing the completed macropad design:
 <img width="1460" height="767" alt="Screenshot 2025-12-27 221258" src="https://github.com/user-attachments/assets/1fcc8091-31e0-4f8c-ad93-2bcc0016ac27" />
@@ -16,7 +16,7 @@ Now, let’s check out the case:
 Here’s what you’ll need for the project:
 
 1x SEEED XIAO RP2040-DIP,
-1x EC11 Rotary encoder switch,
+1x EC11 Rotary Encoder switch,
 4x M3x16mm screws,
 8x Cherry MX switches,
 7x keycaps for the Cherry MX switches
