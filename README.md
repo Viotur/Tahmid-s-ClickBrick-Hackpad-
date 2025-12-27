@@ -14,6 +14,7 @@ Next, here’s the PCB:
 Now, let’s check out the case:
 <img width="1390" height="773" alt="Screenshot 2025-12-27 221641" src="https://github.com/user-attachments/assets/2d28c5a3-54d9-42f4-acf0-f82638f226f0" />
 Here’s what you’ll need for the project:
+
 1x SEEED XIAO RP2040-DIP
 1x EC11 Rotary encoder switch
 4x M3x16mm screws
