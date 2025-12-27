@@ -19,4 +19,4 @@ Here’s what you’ll need for the project:
 1x EC11 Rotary Encoder switch,
 4x M3x16mm screws,
 8x Cherry MX switches,
-7x keycaps for the Cherry MX switches
+8x keycaps for the Cherry MX switches
