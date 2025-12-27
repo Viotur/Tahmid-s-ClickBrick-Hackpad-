@@ -1,5 +1,5 @@
 # Tahmid-s-ClickBrick-Hackpad-
-Hi! I'm Tahmid, and this is my Hackpad submission for the Blueprint program.
+Hi! I'm Tahmid, and this is my Hackpad submission for the Blueprint program. I took inspiration from Imran's project, which can be found here: https://github.com/Voltyggs/Imran-s-lil-macropad/
 
 For this project, I designed a custom macropad using the Seeed XIAO RP2040 DIP as the microcontroller. The macropad features eight Cherry MX switches with keycaps and an EC11 Rotary Encoder switch.
 
